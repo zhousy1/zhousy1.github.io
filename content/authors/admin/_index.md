@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 沈志鹏
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Zhipeng Shen
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Zhipeng
+last_name: Shen
 
 # Status emoji
 status:
@@ -17,37 +17,38 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The Hong Kong Polytechnic University
+    url: https://www.polyu.edu.hk/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include trajectory/motion planning, control and machine learning in robotics.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Trajectory/Motion Planning
+  - Motion Control
+  - Optimal Control
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD Candidate
+      institution: The Hong Kong Polytechnic University, Hong Kong, China
+      year: 2022-now
+    - course: MEng in Control Engineering
+      institution: Beihang University, Beijing, China
+      year: 2019-2022
+    - course: BEng in Aircraft Design and Engineering
+      institution: Northwestern Polytechnical University, Xi’an, China
+      year: 2015-2019
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+
 skills:
   - name: Technical
     items:
@@ -93,22 +94,22 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: 'zhipeng.shen@connect.polyu.hk'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://scholar.google.com/citations?user=Nk4wDP8AAAAJ&hl=en
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/gcushen
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +121,8 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a second-year Ph.D. candidate in the [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/en/aae/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), supervised by [Dr. Hailong Huang](https://www.polyu.edu.hk/en/aae/people/academic-staff/dr-huang-hailong/), co-supervised by [Prof. Chih-yung Wen](https://www.polyu.edu.hk/aae/people/academic-staff/ir-prof-wen-chih-yung/). Our research group, [AIMS](https://sites.google.com/view/hailong-huang/home), is led by Dr. Huang.
+{style="text-align: justify;"}
+
+My research focuses on optimal control within robotics, including both model-based and learning-based approaches, particularly in trajectory and motion planning for aerial robots. My current goal is to achieve fully autonomous, agile flight in real-world environments, thereby enabling aerial robots to serve humans efficiently.
 {style="text-align: justify;"}
