@@ -33,7 +33,7 @@ authors:
   - 吳恩達
 
 tags:
-  - Academic
+  - Zhipeng Shen
   - 开源
 
 categories:
