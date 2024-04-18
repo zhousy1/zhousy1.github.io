@@ -117,9 +117,18 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 
+  - icon: researchgate # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Shen-Zhipeng
+
+  - icon: orcid # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://orcid.org/my-orcid?orcid=0000-0002-9118-5594
+
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+> “Nothing takes place in the world whose meaning is not that of some maximum or minimum.”  ― Leonhard Euler 
 
 Hi! I am currently a second-year Ph.D. candidate in the [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/en/aae/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), supervised by [Dr. Hailong Huang](https://www.polyu.edu.hk/en/aae/people/academic-staff/dr-huang-hailong/), co-supervised by [Prof. Chih-Yung Wen](https://www.polyu.edu.hk/aae/people/academic-staff/ir-prof-wen-chih-yung/). Our research group, [AIMS](https://sites.google.com/view/hailong-huang/home), is led by Dr. Huang.
 {style="text-align: justify;"}
