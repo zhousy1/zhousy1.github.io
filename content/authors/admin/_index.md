@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Zhipeng Shen
+title: Shiyu Zhou
 
 # Name pronunciation (optional)
-name_pronunciation: 沈志鹏
+name_pronunciation: 周诗钰
 
 # Full name (for SEO)
 first_name: Zhipeng
