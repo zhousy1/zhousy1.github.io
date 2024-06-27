@@ -6,8 +6,8 @@ title: Shiyu Zhou
 name_pronunciation: 周诗钰
 
 # Full name (for SEO)
-first_name: Zhipeng
-last_name: Shen
+first_name: Shiyu
+last_name: Zhou
 
 # Status emoji
 status:
@@ -21,28 +21,29 @@ role: Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: The Hong Kong Polytechnic University
-    url: https://www.polyu.edu.hk/en/
+  - name: City University of Hong Kong
+    url: https://www.cityu.edu.hk
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ph.D. candidate at The Hong Kong Polytechnic University
+bio: Ph.D. candidate at City University of Hong Kong
 
 # Interests to show in About widget
 interests:
-  - Trajectory/Motion Planning
-  - Motion Control
-  - Optimal Control
+  - Multi-Agent System | 多智能体系统
+  - Trajectory Planning  | 轨迹规划
+  - Output Regulation  | 输出调节
+  - Adaptive Control | 自适应控制 
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD Candidate
-      institution: The Hong Kong Polytechnic University, Hong Kong, China
+      institution: City University of Hong Kong, Hong Kong, China
       year: 2022-now
-    - course: MEng in Control Engineering
+    - course: MEng in Control Science and Engineering
       institution: Beihang University, Beijing, China
       year: 2019-2022
-    - course: BEng in Aircraft Design and Engineering
+    - course: BEng in Automation
       institution: Northwestern Polytechnical University, Xi’an, China
       year: 2015-2019
 
@@ -94,7 +95,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zhipeng.shen@connect.polyu.hk'
+    link: 'mailto:shiyuzhou9-c@my.cityu.edu.hk'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -103,7 +104,7 @@ social:
   #     header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=Nk4wDP8AAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=HhoLzRAAAAAJ&hl=zh-CN
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/gcushen
@@ -119,20 +120,20 @@ social:
 
   - icon: researchgate # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
-    link: https://www.researchgate.net/profile/Shen-Zhipeng
+    link: https://www.researchgate.net/profile/Shiyu-Zhou-20 
 
-  - icon: orcid # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: ai
-    link: https://orcid.org/my-orcid?orcid=0000-0002-9118-5594
+ # - icon: orcid # Alternatively, use `google-scholar` icon from `ai` icon pack
+ #   icon_pack: ai
+ #   link: https://orcid.org/my-orcid?orcid=0000-0002-9118-5594
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Hi! I am currently a second-year Ph.D. candidate in the [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/en/aae/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), supervised by [Dr. Hailong Huang](https://www.polyu.edu.hk/en/aae/people/academic-staff/dr-huang-hailong/), co-supervised by [Prof. Chih-Yung Wen](https://www.polyu.edu.hk/aae/people/academic-staff/ir-prof-wen-chih-yung/). Our research group, [AIMS](https://sites.google.com/view/hailong-huang/home), is led by Dr. Huang.
+Hi! I am currently a Ph.D. candidate in the [Department of Biomedical Engineering](http://www.cityu.edu.hk/bme/) at [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by [Prof. Gang Feng (IEEE Fellow)](https://www.cityu.edu.hk/bme/megfeng/), co-supervised by [Prof. Dong Sun (IEEE Fellow)](https://www.cityu.edu.hk/bme/medsun/).
 {style="text-align: justify;"}
 
 My research focuses on optimal control within robotics, including both model-based and learning-based approaches, particularly in trajectory and motion planning for aerial robots. My current goal is to achieve fully autonomous, agile flight in real-world environments, thereby enabling aerial robots to serve humans efficiently.
 {style="text-align: justify;"}
 
-> ***“Nothing takes place in the world whose meaning is not that of some maximum or minimum.”***  **― Leonhard Euler**
+> ***“Get the physics right. After that, it is all mathematics.”***  **― Rudolf E. Kalman**
