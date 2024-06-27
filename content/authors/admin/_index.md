@@ -133,7 +133,7 @@ highlight_name: true
 Hi! I am currently a Ph.D. candidate in the [Department of Biomedical Engineering](http://www.cityu.edu.hk/bme/) at [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by [Prof. Gang Feng (IEEE Fellow)](https://www.cityu.edu.hk/bme/megfeng/), co-supervised by [Prof. Dong Sun (IEEE Fellow)](https://www.cityu.edu.hk/bme/medsun/).
 {style="text-align: justify;"}
 
-My research focuses on multi agent system, including both model-based and learning-based approaches, particularly in trajectory and motion planning for aerial robots. My current goal is to achieve fully autonomous, agile flight in real-world environments, thereby enabling aerial robots to serve humans efficiently.
-{style="text-align: justify;"}
+<!-- My research focuses on cooperative control of multi agent system, particularly in trajectory and motion planning for aerial robots. My current goal is to achieve fully autonomous, agile flight in real-world environments, thereby enabling aerial robots to serve humans efficiently.
+{style="text-align: justify;"} -->
 
 > ***“Get the physics right. After that, it is all mathematics.”***  **-Rudolf E. Kalman**
