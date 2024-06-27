@@ -29,10 +29,10 @@ bio: Ph.D. candidate at City University of Hong Kong
 
 # Interests to show in About widget
 interests:
-  - Multi-Agent System | 多智能体系统
-  - Trajectory Planning  | 轨迹规划
-  - Output Regulation  | 输出调节
-  - Adaptive Control | 自适应控制 
+  - Multi-Agent System 
+  - Trajectory Planning 
+  - Output Regulation 
+  - Adaptive Control  
 
 # Education to show in About widget
 education:
@@ -133,7 +133,7 @@ highlight_name: true
 Hi! I am currently a Ph.D. candidate in the [Department of Biomedical Engineering](http://www.cityu.edu.hk/bme/) at [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by [Prof. Gang Feng (IEEE Fellow)](https://www.cityu.edu.hk/bme/megfeng/), co-supervised by [Prof. Dong Sun (IEEE Fellow)](https://www.cityu.edu.hk/bme/medsun/).
 {style="text-align: justify;"}
 
-My research focuses on optimal control within robotics, including both model-based and learning-based approaches, particularly in trajectory and motion planning for aerial robots. My current goal is to achieve fully autonomous, agile flight in real-world environments, thereby enabling aerial robots to serve humans efficiently.
+My research focuses on multi agent system, including both model-based and learning-based approaches, particularly in trajectory and motion planning for aerial robots. My current goal is to achieve fully autonomous, agile flight in real-world environments, thereby enabling aerial robots to serve humans efficiently.
 {style="text-align: justify;"}
 
-> ***“Get the physics right. After that, it is all mathematics.”***  **― Rudolf E. Kalman**
+> ***“Get the physics right. After that, it is all mathematics.”***  **-Rudolf E. Kalman**
