@@ -66,6 +66,17 @@ sections:
 
   - block: collection
     content:
+      title: Journal Papers
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      columns: '1'
+      view: citation
+
+  - block: collection
+    content:
       title: Recent Publications
       text: |-
         {{% callout note %}}
@@ -78,6 +89,8 @@ sections:
     design:
       columns: '1'
       view: citation
+
+
 
   # - block: collection
   #   id: talks
