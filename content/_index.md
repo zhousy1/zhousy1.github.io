@@ -65,19 +65,9 @@ sections:
       view: card
 
   - block: collection
+    id: featured 
     content:
-      title: Journal Papers
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      columns: '1'
-      view: citation
-
-  - block: collection
-    content:
-      title: Recent Publications
+      title: Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
