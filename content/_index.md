@@ -132,22 +132,6 @@ sections:
     #   columns: '1'
 
 
-  - block: accomplishments
-    id: honors 
-    content:
-      title: Accomplishments
-      subtitle: Scholarships
-      text: 
-      - Neural Networks and Deep Learning
-      
-      subtitle: Honors
-      text: 
-      - Neural Networks and Deep Learning
-    
-    design:
-      columns: '1'
-  
-
 
   # - block: accomplishments
   #   id: honors
