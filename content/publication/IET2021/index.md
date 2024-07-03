@@ -1,19 +1,19 @@
 ---
-title: "Penetration trajectory optimization for the hypersonic gliding vehicle encountering two interceptors"
+title: "Predefined formation-containment control of high-order multi-agent systems under communication delays and switching topologies"
 authors:
 - admin
-- Jianglong Yu
 - Xiwang Dong
 - Yongzhao Hua
+- Jianglong Yu
 - Zhang Ren
 author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2022-01-17T00:00:00Z"
-doi: "https://doi.org/10.1016/j.ast.2022.107363"
+date: "2021-05-03T00:00:00Z"
+doi: "https://doi.org/10.1049/cth2.12150"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-01-20T00:00:00Z"
+publishDate: "2021-05-03T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -21,22 +21,22 @@ publishDate: "2022-01-20T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Aerospace Science and Technology**"
+publication: "**IET Control Theory and Applications**"
 publication_short: ""
 
-abstract: The penetration trajectory optimization problem for the hypersonic gliding vehicle (HGV) encountering two interceptors is investigated. The HGV penetration trajectory optimization problem considering the terminal target area is formulated as a nonconvex optimal control problem. The nonconvex optimal control problem is transformed into a second-order cone programming (SOCP) problem, which can be solved by state-of-the-art interior-point methods. In addition, a penetration strategy that only requires the initial line-of-sight (LOS) angle information of the interceptors is proposed. The convergent trajectory obtained by the proposed method allows the HGV to evade two interceptors and reach the target area successfully. Furthermore, a successive SOCP method with a variable trust region is presented, which is critical to balance the trade-off between time consumption and optimality. Finally, the effectiveness and performance of the proposed method are verified by numerical simulations.
+abstract: This paper concerns the problem of formation-containment control for general-linear multi-agent systems (MASs) with both communication delays and switching interaction topologies. On the one hand, the leaders can communicate with each other to form the desired formation and on the other, the followers need to enter the convex envelope spanned by the multiple leaders. Firstly, by using the neighbouring relative information, formation-containment protocols are designed for each leader and follower, where an edge-based state observer is incorporated into the formation-containment controller to evaluate the whole leaders' state. Secondly, according to the linear matrix inequality technology, an algorithm is given to determine the unknown feedback matrixes in the protocol. Then, based on Lyapunov theory, the formation-containment error is proved to be convergent and formation feasibility conditions are also presented for the MASs to achieve formation-containment. Finally, a simulation on several MASs is provided to demonstrate the theoretical results.
 
 # Summary. An optional shortened abstract.
 summary: 
 
 tags:
-- Trajectory planning
+- Formation containment 
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'content/publication/AST2022/AST2022.pdf'
+url_pdf: 'content/publication/IET2021/IET2021.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
