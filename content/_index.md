@@ -81,14 +81,14 @@ sections:
       columns: '1'
       view: citation
 
-  - block: honors
-    id: honors
-    content:
-      title: Honors and Awards
-      url: honors/
-    design:
-      columns: '2'
-      view: compact
+  # - block: honors
+  #   id: honors
+  #   content:
+  #     title: Honors and Awards
+  #     url: honors/
+  #   design:
+  #     columns: '2'
+  #     view: compact
 
   # - block: experience
   #   id: experience
