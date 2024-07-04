@@ -81,7 +81,7 @@ sections:
       columns: '1'
       view: citation
 
-  - block: honors
+  - block: markdown
     id: honors
     content:
       title: Honors and Awards
