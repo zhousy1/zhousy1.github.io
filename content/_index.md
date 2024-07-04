@@ -85,13 +85,13 @@ sections:
     id: honors
     content:
       title: Honors and Awards
-      filters:
-        folders:
-          - honors
-        # exclude_featured: false
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering honors](honors/).
+        {{% /callout %}}
     design:
-      columns: '2'
-      view: compact
+      columns: '1'
+      # view: compact
 
   # - block: experience
   #   id: experience

@@ -13,13 +13,13 @@ main:
 #  - name: Experience
 #    url: '#experience'
 #    weight: 30
-  - name: Honors and Awards
-    url: '#honors'
-    weight: 30
-
-  # - name: Honors and Awards   # old honors list
-  #   url: honors/
+  # - name: Honors and Awards
+  #   url: '#honors'
   #   weight: 30
+
+  - name: Honors and Awards   # old honors list
+    url: honors/
+    weight: 30
 
 #  - name: Projects
 #    url: '#projects'
