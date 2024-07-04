@@ -14,8 +14,13 @@ main:
 #    url: '#experience'
 #    weight: 30
   - name: Honors and Awards
-    url: honors/
+    url: '#honors'
     weight: 30
+
+  # - name: Honors and Awards   # old honors list
+  #   url: honors/
+  #   weight: 30
+
 #  - name: Projects
 #    url: '#projects'
 #    weight: 40
