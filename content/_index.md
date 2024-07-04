@@ -89,6 +89,10 @@ sections:
         {{% callout note %}}
         Quickly discover relevant content by [filtering honors](honors/).
         {{% /callout %}}
+      filters:
+        folders:
+          - honors
+        exclude_featured: false
     design:
       columns: '1'
       # view: compact
