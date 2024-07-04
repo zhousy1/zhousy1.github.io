@@ -26,7 +26,7 @@ summary: We propose a method to effeciently compute the time-optimal trajectory 
 
 tags:
 - Trajectory planning
-featured: true
+featured: false 
 
 links:
 # - name: Custom Link
