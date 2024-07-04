@@ -3,6 +3,7 @@ title: Honors and Awards
 date: 2023-10-24
 hide_date: true
 reading_time: false
+cms_exclude: true
 ---
 
 <!-- The idea of a Uses page is to tell you about the stuff I use.
@@ -69,3 +70,5 @@ I often get asked about what software or hardware I use, so this page will serve
 - Second Prize, The 2nd Aerial Robot Competition, School of Automation, Northwestern Polytechnical University, in 2016
 - Second Prize, The 2nd Beautiful Notebook Selection Competition of Northwestern Polytechnical University, Northwestern Polytechnical University, in 2016
 - Second prize, 2021 Proposal Solicitation Competition of Beihang University, in 2021
+
+
