@@ -86,8 +86,12 @@ sections:
     content:
       title: Honors and Awards
       text: |-
+        Over the past several years, I have received numerous awards in academics, scholarships, honors, and competitions.
+
+        Among these achievements, I have consistently been awarded the **National Scholarship** by the Ministry of Education, China, in the years 2016, 2017, 2018, and 2021. Additionally, I received the **highest honor, Top Ten Postgraduates**, from Beihang University. In the realm of competitions, I have secured multiple awards in mathematical and modeling contests.
+
         {{% callout note %}}
-        Quickly discover relevant content by [filtering honors](honors/).
+        For more detailed information, please see the [Honors and Awards](honors/).
         {{% /callout %}}
       filters:
         folders:
