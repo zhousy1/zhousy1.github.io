@@ -1,22 +1,22 @@
 ---
-title: 'Penetration trajectory optimization of hypersonic gliding vehicles with multiple constraints'
+title: 'Time-varying group formation-tracking for heterogeneous multi-agent systems with switching topologies and time-varying delays'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Jianglong Yu
+  - Xiaobao Wei
   - Xiwang Dong
-  - Qingdong Li
+  - Yongzhao Hua
   - Zhang Ren
 # Author notes (optional)
 author_notes:
   # - 'Equal contribution'
   # - 'Equal contribution'
 
-date: '2021-10-10'
-doi: ''
+date: '2021-10-6'
+doi: 'https://ieeexplore.ieee.org/document/9550486'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -27,10 +27,10 @@ publishDate: ''
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: '**The 40th Chinese Control Conference (CCC)**'
+publication: '**2021 40th Chinese Control Conference (CCC)**'
 publication_short: 
 
-abstract: 
+abstract: Group formation-tracking problem for heterogeneous multi-agent systems (HMASs) with both switching networks and communication delays is investigated in this paper. In order to achieve different tasks, the agents are classified into various groups. The followers are allowed to realize the formation and track the trajectory of the leader in each group. Firstly, by utilizing the consensus control, an observer is proposed to estimate the state of the leader. Then, an observer-based control protocol is put forward to solve the group formation-tracking problem with both communication delays and switching networks. Moreover, an algorithm to determine the gain feedbacks is demonstrated, in the meantime, the observer’s error systems as well as the group formation-tracking error systems are proved to be convergent. Finally, an example in the simulation prat is presented to verify the theoretical results.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -45,7 +45,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'content/publication/CCC2021/CCC2021.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

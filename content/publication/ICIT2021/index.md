@@ -1,21 +1,22 @@
 ---
-title: 'Enhancing autonomous driving following motion decision-making through model-based policy optimization'
+title: 'Time-varying group formation-tracking for general linear multi-agent systems with switching topologies and time-varying delays'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Dong Hu
   - admin
-  - Chao Huang
-  - Hailong Huang
+  - Xiwang Dong
+  - Qingke Tan
+  - Qing Wang
+  - Zhang Ren
 # Author notes (optional)
 author_notes:
   # - 'Equal contribution'
   # - 'Equal contribution'
 
-date: '2023-10-10'
-doi: ''
+date: '2021-6-18'
+doi: 'https://ieeexplore.ieee.org/document/9453550'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -26,10 +27,10 @@ publishDate: ''
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: '**International Conference on Electric Vehicle and Vehicle Engineering (CEVVE 2023) (Best Student Paper)**'
+publication: '**2021 22nd IEEE International Conference on Industrial Technology(ICIT)**'
 publication_short: 
 
-abstract: 
+abstract: Time-varying group formation-tracking control for general linear multi-agent systems with switching topologies and varying time delays is studied in this paper. Due to the deferent effects in coordinated problem, the agents in group formation-tracking are divided into two roles, leaders and followers, respectively. The followers are allowed to achieve the expected subgroup formation and, in the meantime, tracking the trajectory of the leaders in each group. Firstly, utilizing the neighboring information, the observers is proposed for each follower to estimate the leader’s state in the subgroup. Based on the transformed of the estimated error and Lyapunov theory, the effectiveness of the proposed observer is proven. Secondly, by incorporating the state observer in the formation-tracking protocol, the novel controller is put forward to solve the group formation-tracking problem under the influence of both time-varying delays and switching networks. Then, an algorithm to determine the gain matrix is presented, and the convergence the of group formation error is also demonstrated. Finally, a numerical simulation result is given to verify the practical of the theoretical results.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -44,7 +45,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'content/publication/ICIT2021/ICIT2021.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
