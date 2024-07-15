@@ -1,35 +1,36 @@
 ---
-title: 'Neural Network-Accelerated Trajectory Optimization for Launch Vehicle Landing'
+title: 'Predefined containment control for general linear multi-agent systems with time-varying delays and switching topologies'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Shiyu Zhou
-  - Jianglong Yu
-  - Hailong Huang
+  - Yongzhao Hua
+  - Xiwang Dong
+  - Qingdong Li
+  - Zhang Ren
 # Author notes (optional)
 author_notes:
   # - 'Equal contribution'
   # - 'Equal contribution'
 
-date: '2023-06-16'
-doi: ''
+date: '2019-11-25'
+doi: 'https://doi.org/10.1002/adc2.26'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ''
+publishDate: '2019-11-23'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: '**2023 9th International Conference on Control Science and Systems Engineering (ICCSSE)**'
+publication: '**Advanced Control for Applications: Engineering and Industrial Systems**'
 publication_short: 
 
-abstract: 
+abstract: Containment control problems for general linear multiagent systems with switching interaction topologies and time-varying delays are studied. Firstly, state observers are constructed to estimate the multiple leaders under the influence of switching graphs and time-varying delays. Secondly, a predefined containment protocol is presented based on the distributed state observer, where the expected convex combination of multiple leaders is predefined by several given weights. Moreover, an algorithm with two steps to confirm the gain matrices of the containment protocol and state observer is given. Based on linear matrix inequality technique and common Lyapunov-Krasovskii stability theory, the convergence of this control strategy for multiagent systems with switching topologies and time-varying delays to achieve state containment is proved. Finally, a numerical simulation is given to verify the validity of the theoretical results.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -44,7 +45,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'content/publication/ADC2019/ADC2019.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
