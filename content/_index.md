@@ -106,7 +106,9 @@ sections:
       title: Services 
       subtitle: My subtitle
       text: |-
-      Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+        Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      design:
+        columns: '1'
 
 
 
@@ -197,33 +199,33 @@ sections:
   #   design:
   #     columns: '1'
 
-  - block: collection
-    id: posts
-    content:
-      title: Services
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: showcase
-      columns: '1'
+  # - block: collection
+  #   id: posts
+  #   content:
+  #     title: Services
+  #     subtitle: ''
+  #     text: ''
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 5
+  #     # Filter on criteria
+  #     filters:
+  #       folders:
+  #         - post
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: showcase
+  #     columns: '1'
 
   # - block: portfolio
   #   id: projects
