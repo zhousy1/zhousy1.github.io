@@ -10,7 +10,7 @@ cms_exclude: true
 
 I often get asked about what software or hardware I use, so this page will serve as a living document and a place to point curious readers to when I get asked. -->
 
-## Academic Awards
+## **Academic Awards**
 
 <!-- - [Hugo Blox](https://hugoblox.com) (see the tutorial on [Getting Started](/blog/get-started/)) -->
 - Outstanding Open Science Author of the Year 2022, Wiley China, in 2023
@@ -19,13 +19,13 @@ I often get asked about what software or hardware I use, so this page will serve
 - Finalist for Excellent Dissertation Award, Chinese Society of Aeronautics and Astronautics (CSAA), China, in 2022
 - Excellent Bachelar Dissertation Award, Northwestern Polytechnical University, Xi'an, China, in 2019
 
-## Scholarships
+## **Scholarships**
 
-- National Scholarships, Ministry of Education, China, in 2021
+- **National Scholarships**, Ministry of Education, China, in 2021
 
-- National Scholarships, Ministry of Education, China, in 2018
-- National Scholarships, Ministry of Education, China, in 2017
-- National Scholarships, Ministry of Education, China, in 2016
+- **National Scholarships**, Ministry of Education, China, in 2018
+- **National Scholarships**, Ministry of Education, China, in 2017
+- **National Scholarships**, Ministry of Education, China, in 2016
 - The First Prize Scholarship, Beihang University, Beijing, China, in 2021
 - The First Prize Scholarship, Beihang University, Beijing, China, in 2020
 - The First Prize Scholarship, Northwestern Polytechnical University, Xi'an, China, in 2018
@@ -36,7 +36,7 @@ I often get asked about what software or hardware I use, so this page will serve
 - Chrome is my main browser
 - iTerm2 is my terminal -->
 
-## Honorary Titles
+## **Honorary Titles**
 
 - Excellent Graduate Student in Beijing, Department of Education, Beijing, China, in 2022
 
@@ -52,7 +52,7 @@ I often get asked about what software or hardware I use, so this page will serve
 - Outstanding Volunteer, 2020 4th Chinese Conference on Swarm Intelligence and Cooperative Control, Chinese Institute of Command and Control, Beijing, China, in 2020
 - Outstanding Volunteer, 2019 3rd Chinese Conference on Swarm Intelligence and Cooperative Control, Chinese Institute of Command and Control, Beijing, China, in 2019
 
-## Competition Awards
+## **Competition Awards**
 
 - Third Prize, "Huawei Cup" The 17th China Post-Graduate Mathematical Contest in Modeling, Association of Chinese Graduate Education, in 2020
 
