@@ -85,21 +85,50 @@ sections:
     id: honors
     content:
       title: Honors and Awards
-      text: |-
-        Over the past several years, I have received numerous awards in academics, scholarships, honors, and competitions.
+      subtitle: Academic Awards
+      text: 
+        - Outstanding Open Science Author of the Year 2022, Wiley China, in 2023
 
-        Among these achievements, I have consistently been awarded the **National Scholarship** by the Ministry of Education, China, in the years 2016, 2017, 2018, and 2021. Additionally, I received the **highest honor, Top Ten Postgraduates**, from Beihang University. In the realm of competitions, I have secured multiple awards in mathematical and modeling contests.
+        - Excellent Master Dissertation Award, Beihang University, Beijing, China, in 2022
+        - Finalist for Excellent Dissertation Award, Chinese Society of Aeronautics and Astronautics (CSAA), China, in 2022
+        - Excellent Bachelar Dissertation Award, Northwestern Polytechnical University, Xi'an, China, in 2019 
+      
+      subtitle: Scholarships
+      text: 
+        - **National Scholarships**, Ministry of Education, China, in 2021
+        - National Scholarships, Ministry of Education, China, in 2018
+        - National Scholarships, Ministry of Education, China, in 2017
+        - National Scholarships, Ministry of Education, China, in 2016
+        - The First Prize Scholarship, Beihang University, Beijing, China, in 2021
+        - The First Prize Scholarship, Beihang University, Beijing, China, in 2020
+        - The First Prize Scholarship, Northwestern Polytechnical University, Xi'an, China, in 2018
+        - The First Prize Scholarship, Northwestern Polytechnical University, Xi'an, China, in 2017
+        - The First Prize Scholarship, Northwestern Polytechnical University, Xi'an, China, in 2016 
 
-        {{% callout note %}}
-        For more detailed information, please see the [Honors and Awards](honors/) section.
-        {{% /callout %}}
-      filters:
-        folders:
-          - honors
-        exclude_featured: false
-    design:
-      columns: '1'
+
       # view: compact
+
+    
+
+  # - block: markdown
+  #   id: honors
+  #   content:
+  #     title: Honors and Awards
+  #     text: |-
+  #       Over the past several years, I have received numerous awards in academics, scholarships, honors, and competitions.
+
+  #       Among these achievements, I have consistently been awarded the **National Scholarship** by the Ministry of Education, China, in the years 2016, 2017, 2018, and 2021. Additionally, I received the **highest honor, Top Ten Postgraduates**, from Beihang University. In the realm of competitions, I have secured multiple awards in mathematical and modeling contests.
+
+  #       {{% callout note %}}
+  #       For more detailed information, please see the [Honors and Awards](honors/) section.
+  #       {{% /callout %}}
+  #     filters:
+  #       folders:
+  #         - honors
+  #       exclude_featured: false
+  #   design:
+  #     columns: '1'
+  #     # view: compact
   
   - block: markdown
     content:
