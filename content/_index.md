@@ -163,7 +163,7 @@ sections:
         ### **Reviewer**
           - IET Control Theory and Applications 	
           - Journal of the Franklin Institute 
-          - IEEE International Conference on Control and Automation(ICCA)
+          - IEEE International Conference on Control and Automation (ICCA)
           - Chinese Control Conference (CCC) 
 
         ### **Leadership Membership**
