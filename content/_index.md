@@ -159,28 +159,30 @@ sections:
     content:
       title: Services and Hobbies 
       text: |-
-        ## ** Services **
-        ### ** Reviewer **
+        ## **Services**
+        ### **Reviewer**
           - IET Control Theory and Applications 	
           - Journal of the Franklin Institute 
           - IEEE International Conference on Control and Automation(ICCA)
           - Chinese Control Conference (CCC) 
 
-        ### ** Leadership Membership **
+        ### **Leadership Membership**
           - IEEE Student Member, 2022-present 	
           - IEEE Control and Systems Society Member, 2022-present 
           - 中国航空学会会员, 2022-2023 
 
-        ### ** Student Affairs **
+        ### **Student Affairs**
           - 北京航空航天大学自动化科学与电气工程学院党支部宣传委员 
           - 西北工业大学自动化学院科技与竞赛协会副主席
 
-        ## ** Hobbies ** 
+        ## **Hobbies** 
           - Marathon
           - Squash
           - Hiking 
           - Photograph
+
         {{<gallery album="zhou" >}}
+        
     design:
       columns: '1'
 
