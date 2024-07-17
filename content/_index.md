@@ -182,7 +182,17 @@ sections:
           - Photograph
 
         {{<gallery album="zhou" >}}
-        
+
+    design:
+      columns: '1'
+
+  - block: markdown
+    id: gallery
+    content:
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="zhou" >}}
     design:
       columns: '1'
 
