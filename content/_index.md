@@ -86,7 +86,7 @@ sections:
     content:
       title: Honors and Awards
       subtitle: Academic Awards
-      text: 
+      text: |-
         - Outstanding Open Science Author of the Year 2022, Wiley China, in 2023
         - Excellent Master Dissertation Award, Beihang University, Beijing, China, in 2022
         - Finalist for Excellent Dissertation Award, Chinese Society of Aeronautics and Astronautics (CSAA), China, in 2022
