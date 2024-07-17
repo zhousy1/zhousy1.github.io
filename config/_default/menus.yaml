@@ -17,9 +17,13 @@ main:
   #   url: '#honors'
   #   weight: 30
 
-  - name: Honors and Awards   # old honors list
+  - name: Honors and Awards   
     url: '#honors'
     weight: 30
+
+  - name: Services and Hobbies   
+    url: '#services'
+    weight: 40
 
 #  - name: Projects
 #    url: '#projects'

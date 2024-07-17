@@ -134,24 +134,6 @@ sections:
         - Second Prize, The 2nd Beautiful Notebook Selection Competition of Northwestern Polytechnical University, Northwestern Polytechnical University, in 2016
         - Second prize, 2021 Proposal Solicitation Competition of Beihang University, in 2021
 
-
-      # subtitle: Scholarships
-      # text: 
-      #   - **National Scholarships**, Ministry of Education, China, in 2021
-      #   - National Scholarships, Ministry of Education, China, in 2018
-      #   - National Scholarships, Ministry of Education, China, in 2017
-      #   - National Scholarships, Ministry of Education, China, in 2016
-      #   - The First Prize Scholarship, Beihang University, Beijing, China, in 2021
-      #   - The First Prize Scholarship, Beihang University, Beijing, China, in 2020
-      #   - The First Prize Scholarship, Northwestern Polytechnical University, Xi'an, China, in 2018
-      #   - The First Prize Scholarship, Northwestern Polytechnical University, Xi'an, China, in 2017
-      #   - The First Prize Scholarship, Northwestern Polytechnical University, Xi'an, China, in 2016 
-
-
-      # view: compact
-
-    
-
   # - block: markdown
   #   id: honors
   #   content:
@@ -159,7 +141,7 @@ sections:
   #     text: |-
   #       Over the past several years, I have received numerous awards in academics, scholarships, honors, and competitions.
 
-  #       Among these achievements, I have consistently been awarded the **National Scholarship** by the Ministry of Education, China, in the years 2016, 2017, 2018, and 2021. Additionally, I received the **highest honor, Top Ten Postgraduates**, from Beihang University. In the realm of competitions, I have secured multiple awards in mathematical and modeling contests.
+  #       Among these achievements, I have consistently been awarded the **National Scholarship** by the Ministry of Education, China, in the years 2016, 2017, 2018, and 2021. Additionally, I received the **highest honor, Top Ten Postgraduates**, from Beihang University. 
 
   #       {{% callout note %}}
   #       For more detailed information, please see the [Honors and Awards](honors/) section.
@@ -173,13 +155,36 @@ sections:
   #     # view: compact
   
   - block: markdown
+    id : services
     content:
-      title: Services 
-      subtitle: My subtitle
+      title: Services and Hobbies 
       text: |-
-        Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-      design:
-        columns: '1'
+        ## ** Services **
+        ### ** Reviewer **
+          - IET Control Theory and Applications 	
+          - Journal of the Franklin Institute 
+          - IEEE International Conference on Control and Automation(ICCA)
+          - Chinese Control Conference (CCC) 
+
+        ### ** Leadership Membership **
+          - IEEE Student Member, 2022-present 	
+          - IEEE Control and Systems Society Member, 2022-present 
+          - 中国航空学会会员, 2022-2023 
+
+        ### ** Student Affairs **
+          - 北京航空航天大学自动化科学与电气工程学院党支部宣传委员 
+          - 西北工业大学自动化学院科技与竞赛协会副主席
+
+        ## ** Hobbies ** 
+          - Marathon
+          - Squash
+          - Hiking 
+          - Photograph
+        {{<gallery album="zhou" >}}
+    design:
+      columns: '1'
+
+
 
 
 
