@@ -91,6 +91,18 @@ sections:
         - Excellent Master Dissertation Award, Beihang University, Beijing, China, in 2022
         - Finalist for Excellent Dissertation Award, Chinese Society of Aeronautics and Astronautics (CSAA), China, in 2022
         - Excellent Bachelar Dissertation Award, Northwestern Polytechnical University, Xi'an, China, in 2019 
+      subtitle: Scholarships
+      text: |-
+        - **National Scholarships**, Ministry of Education, China, in 2021
+        - **National Scholarships**, Ministry of Education, China, in 2018
+        - **National Scholarships**, Ministry of Education, China, in 2017
+        - **National Scholarships**, Ministry of Education, China, in 2016
+        - The First Prize Scholarship, Beihang University, Beijing, China, in 2021
+        - The First Prize Scholarship, Beihang University, Beijing, China, in 2020
+        - The First Prize Scholarship, Northwestern Polytechnical University, Xi'an, China, in 2018
+        - The First Prize Scholarship, Northwestern Polytechnical University, Xi'an, China, in 2017
+        - The First Prize Scholarship, Northwestern Polytechnical University, Xi'an, China, in 2016
+
 
       # subtitle: Scholarships
       # text: 
