@@ -1,55 +1,51 @@
 ---
-title: "Convex Optimization-Based Trajectory Planning for Quadrotors Landing on Aerial Vehicle Carriers"
+title: "Time-varying Output Group Formation Tracking Control for Heterogeneous Multiagent Systems with Switching Topologies"
 authors:
 - admin
-- Guanzhong Zhou
-- Hailong Huang
-- Chao Huang
-- Yutong Wang
-- Fei-Yue Wang
+- Dong Sun
+- Gang Feng
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2024-01-24"
-doi: "10.1109/TIV.2023.3327263"
+date: "2024-06-18"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-10-24"
+publishDate: ""
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**IEEE Transactions on Intelligent Vehicles**"
+publication: "**Accepted by IEEE 18th International Conference on Control and Automation (ICCA)**"
 publication_short: ""
 
-abstract: This paper presents a novel trajectory planning algorithm for quadrotors landing on aerial vehicle carriers (AVCs). The algorithm involves a quadrotor trajectory planning method based on the lossless convexification (LC) theory and a sequential convex programming (SCP) method enabling quadrotors to autonomously land on both static and moving AVCs in a three-dimensional space. By incorporating landing cone constraints, the safety of the quadrotor during landing is ensured. The LC method transforms the original nonconvex optimal control problem (OCP) into a convex optimization problem, enabling the efficient computation of a 3-degree-of-freedom (3-DoF) safe landing trajectory. The designed SCP algorithm utilizes the 3-DoF trajectory as an initial guess and iteratively solves convex subproblems to obtain a safe, agile, and accurate landing trajectory for the complete 6-DoF quadrotor dynamics. Real-world experiments validate the effectiveness and real-time performance of the proposed method.
+abstract: This article studies the time-varying output group formation (TVOGF) tracking problem for heterogeneous multiagent systems (HMASs) with switching topologies. The primary objective is to design a TVOGF tracking protocol such that the followers are driven to form the desired sub-formations and track the corresponding output of the leader in each subgroup. Firstly, distributed observers are developed to estimate the states of leaders with switching topologies. A TVOGF tracking controller is then designed based on the proposed observers. It is shown that under the distributed protocol, the TVOGF tracking control problem for HMASs with switching topologies can be solved if the average dwell time associated with the switching topologies is larger than a fixed threshold. Finally, an example is provided to demonstrate the effectiveness of the proposed protocol.
 
 # Summary. An optional shortened abstract.
-summary: This paper presents a novel trajectory planning algorithm for quadrotors landing on aerial vehicle carriers (AVCs).
-
+summary: 
 tags:
-- Trajectory planning
-featured: true
+- 
+featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'content/publication/TIV-landing/TIV-landing.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://www.youtube.com/watch?v=yUllqTXWafs'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Quadrotor landing on AVCs'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -77,3 +73,4 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
+
