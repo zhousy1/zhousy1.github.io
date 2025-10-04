@@ -53,22 +53,26 @@ sections:
   #   design:
   #     columns: '1'
 
-  # - block: collection
-  #  id: featured
-  #  content:
-  #    title: Featured Publications
-  #    filters:
-  #      folders:
-  #        - publication
-  #      featured_only: true
-  #  design:
-  #    columns: '2'
-  #    view: card
+  - block: collection
+    id: featured
+    content:
+     title: Featured Publications
+     filters:
+       folders:
+         - publication
+       featured_only: true
+    design:
+     columns: '1'
+     view: Showcase
+     
+     # Compact
+     # card
+     # Showcase
 
   - block: collection
     id: featured 
     content:
-      title: Publications
+      title: All Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -87,52 +91,71 @@ sections:
       title: Honors and Awards
       text: |-
         ## **Academic Awards**
-        - Outstanding Open Science Author of the Year 2022, Wiley China, in 2023
-        - Excellent Master Dissertation Award, Beihang University, Beijing, China, in 2022
-        - Finalist for Excellent Dissertation Award, Chinese Society of Aeronautics and Astronautics (CSAA), China, in 2022
-        - Excellent Bachelar Dissertation Award, Northwestern Polytechnical University, Xi'an, China, in 2019 
+        - Outstanding Academic Performance Award for Research Degree Students, City University of Hong Kong, 2025
+        - Outstanding Open Science Author of the Year 2022, Wiley China, 2022
+        - Finalist for Excellent Dissertation Award, Chinese Society of Aeronautics and Astronautics, 2022
+        - Excellent Master Dissertation Award, Beihang University, 2022
+        - Excellent Bachelar Dissertation Award, Northwestern Polytechnical University, 2019 
+
+        ---
 
         ## **Scholarships**
-          - **National Scholarships**, Ministry of Education, China, in 2021
-          - **National Scholarships**, Ministry of Education, China, in 2018
-          - **National Scholarships**, Ministry of Education, China, in 2017
-          - **National Scholarships**, Ministry of Education, China, in 2016
-          - The First Prize Scholarship, Beihang University, Beijing, China, in 2021
-          - The First Prize Scholarship, Beihang University, Beijing, China, in 2020
-          - The First Prize Scholarship, Northwestern Polytechnical University, Xi'an, China, in 2018
-          - The First Prize Scholarship, Northwestern Polytechnical University, Xi'an, China, in 2017
-          - The First Prize Scholarship, Northwestern Polytechnical University, Xi'an, China, in 2016
+          - **China National Scholarship (Graduate)**, Ministry of Education of the People's Republic of China, 2021
+          - **China National Scholarship (Undergraduate)**, Ministry of Education of the People's Republic of China, 2018
+          - **China National Scholarship (Undergraduate)**, Ministry of Education of the People's Republic of China, 2017
+          - **China National Scholarship (Undergraduate)**, Ministry of Education of the People's Republic of China, 2016
+          - Research Tuition Scholarship, City University of Hong Kong, 2025
+          - First Prize Scholarship, Beihang University, 2021
+          - First Prize Scholarship, Beihang University, 2020
+          - First Prize Scholarship, Northwestern Polytechnical University, 2018
+          - First Prize Scholarship, Northwestern Polytechnical University, 2017
+          - First Prize Scholarship, Northwestern Polytechnical University, 2016
 
-        ## **Honorary Titles**
-        - Excellent Graduate Student in Beijing, Department of Education, Beijing, China, in 2022
-        - Outstanding Graduate of Beijing Association of Automation, Beijing Association of Automation, Beijing, China, in 2021
-        - Top Ten Excellent Postgraduates Students,  Beihang University, Beijing, China, in 2021
-        - Outstanding Students, Beihang University, Beijing, China, in 2021
-        - Outstanding Students, Beihang University, Beijing, China, in 2020
-        - Outstanding Students, School of Automation Science and Electrical Engineering, Beihang University, Beijing, China, in 2021
-        - Outstanding Students, School of Automation Science and Electrical Engineering, Beihang University, Beihang University, Beijing, China, in 2020
-        - Outstanding Students, Northwestern Polytechnical University,  Northwestern Polytechnical University, Xi'an, China, in 2016
-        - Outstanding Students, Northwestern Polytechnical University,  Northwestern Polytechnical University, Xi'an, China, in 2017
-        - Outstanding Students, Northwestern Polytechnical University,  Northwestern Polytechnical University, Xi'an, China, in 2016
-        - Outstanding Volunteer, 2020 4th Chinese Conference on Swarm Intelligence and Cooperative Control, Chinese Institute of Command and Control, Beijing, China, in 2020
-        - Outstanding Volunteer, 2019 3rd Chinese Conference on Swarm Intelligence and Cooperative Control, Chinese Institute of Command and Control, Beijing, China, in 2019
+        ---
+
+        ## **Honors**
+        ### **Academic Honors**
+        - Outstanding Graduate Student of Beijing, Beijing Municipal Education Commission, 2022
+        - Outstanding Graduate Student, Beijing Association of Automation, 2021
+        - Top Ten Outstanding Graduate Students, Beihang University, 2021
+        - Merit Student, Beihang University, 2021
+        - Merit Student, Beihang University, 2020
+        - Merit Student, School of Automation Science and Electrical Engineering, Beihang University, 2021
+        - Merit Student, School of Automation Science and Electrical Engineering, Beihang University, 2020
+        - Outstanding Graduate Student, Northwestern Polytechnical University, in 2019
+        - Merit Student, Northwestern Polytechnical University, 2018
+        - Merit Student, Northwestern Polytechnical University, 2017
+        - Merit Student, Northwestern Polytechnical University, 2016
+
+        ### **Extracurricular Honors**
+        - Top Five Runner (Female Students, Half Marathon), City University of Hong Kong, 2025
+        - Outstanding Volunteer, The 4th Chinese Conference on Swarm Intelligence and Cooperative Control, Chinese Institute of Command and Control, 2020
+        - Outstanding Volunteer, The 3rd Chinese Conference on Swarm Intelligence and Cooperative Control, Chinese Institute of Command and Control, 2019
+
+        ---
 
         ## **Competition Awards**
-        - Third Prize, "Huawei Cup" The 17th China Post-Graduate Mathematical Contest in Modeling, Association of Chinese Graduate Education, in 2020
-        - Honorable Mention, American College Students Mathematical Modeling Contest, COMAP: Consortium for Mathematics and Its Applications, in 2017
-        - First Prize, Contemporary Undergraduate Mathematical Contest in Modeling, China Society for Industrial and Applied Mathematics, in 2017
-        - First Prize, May Day Mathematical Contest in Modeling, Association of Chinese Graduate Education, Jiangsu Society for Industrial and Applied Mathematics, in 2018
-        - First Prize, Eighth Smart Car Competition of Northwestern Polytechnical University,  Northwestern Polytechnical University, in 2018
-        - Second Prize, The 8th MathorCup Mathematical Contest in Modeling, Chinese Society of Optimization,Overall Planning and Economical Mathematics, in 2018
-        - Third Prize, The 9th Mathematics competition of Chinese College Students in Shaanxi Province Division(Non Mathematics),  Chinese Mathematical Society, in 2017
-        - Second Prize, The 8th Social Practice and Science Contest on Energy Saving and Emission Reduction of Northwestern Polytechnical University,  Northwestern Polytechnical University, in 2017
-        - Second Prize, CSEE Cup 2017 National University Students Electrical Math Modeling Competition, Chinese Society for Electrical Engineering, in 2017
-        - First Prize, May Day Mathematical Contest in Modeling, Association of Chinese Graduate Education, Jiangsu Society for Industrial and Applied Mathematics, in 2017
-        - Second Prize, Contemporary Undergraduate Mathematical Contest in Modeling, China Society for Industrial and Applied Mathematics, in 2016
-        - First Prize, The 17th Northwestern Polytechnical University Mathematical Contest in Modeling, in 2016
-        - Second Prize, The 2nd Aerial Robot Competition, School of Automation, Northwestern Polytechnical University, in 2016
-        - Second Prize, The 2nd Beautiful Notebook Selection Competition of Northwestern Polytechnical University, Northwestern Polytechnical University, in 2016
-        - Second prize, 2021 Proposal Solicitation Competition of Beihang University, in 2021
+        ### **Mathematical Modeling Competitions**
+        - Third Prize, The 17th China Post-Graduate Mathematic Contest in Modeling, Association of Chinese Graduate Education, 2020
+        - Honorable Mention, Interdisciplinary Contest in Modeling, Consortium for Mathematics and Its Applications, 2017
+        - First Prize, China Undergraduate Mathematical Contest in Modeling, China Society for Industrial and Applied Mathematics, 2017
+        - First Prize, May Day Mathematical Contest in Modeling, Jiangsu Society for Industrial and Applied Mathematics, 2018
+        - First Prize, May Day Mathematical Contest in Modeling, Jiangsu Society for Industrial and Applied Mathematics, 2017
+        - First Prize, The 17th Northwestern Polytechnical University Mathematical Contest in Modeling, Northwestern Polytechnical University, 2016
+        - Second Prize, China Undergraduate Mathematical Contest in Modeling, China Society for Industrial and Applied Mathematics, 2016
+        - Second Prize, National University Students Electrical Math Modeling Competition, Chinese Society for Electrical Engineering, 2017
+        - Second Prize, The 8th MathorCup Mathematical Contest in Modeling, Chinese Society of Optimization, Overall Planning and Economical Mathematics, 2018
+
+        ### **STEM and Innovation Competitions**
+        - Third Prize, The 9th Mathematics Competition of Chinese College Students (Non-Mathematics Major), Chinese Mathematical Society, 2017
+        - First Prize, Eighth Smart Car Competition, Northwestern Polytechnical University, 2018
+        - Second Prize, The 8th Social Practice and Science Contest on Energy Saving and Emission Reduction, Northwestern Polytechnical University, 2017
+        - Second Prize, The 2nd Aerial Robot Competition, School of Automation, Northwestern Polytechnical University, 2016
+
+        ### **Other Competitions**
+        - Second Prize, Proposal Competition, Beihang University, 2021
+        - Second Prize, The 2nd Aesthetic Notes Competition, Northwestern Polytechnical University, 2016
+  
 
   # - block: markdown
   #   id: honors
@@ -157,29 +180,26 @@ sections:
   - block: markdown
     id : services
     content:
-      title: Services and Hobbies 
+      title: Professional Services 
       text: |-
-        ## **Services**
-        ### **Reviewer**
+        ## **Reviewer**
+          - IEEE Transactions on Automatic Control
+          - IEEE/CAA Journal of Automatica Sinica
+          - Systems & Control Letters
           - IET Control Theory and Applications 	
-          - Journal of the Franklin Institute 
-          - IEEE International Conference on Control and Automation (ICCA)
-          - Chinese Control Conference (CCC) 
+          - IEEE International Conference on Control and Automation (ICCA) 
 
-        ### **Leadership Membership**
+        ## **Professional Memberships**
           - IEEE Student Member, 2022-present 	
           - IEEE Control and Systems Society Member, 2022-present 
-          - 中国航空学会会员, 2022-2023 
+          - Member, Chinese Society of Aeronautics and Astronautics, 2022-2023 
 
-        ### **Student Affairs**
-          - 北京航空航天大学自动化科学与电气工程学院党支部宣传委员 
-          - 西北工业大学自动化学院科技与竞赛协会副主席
-
-        ## **Hobbies** 
-          - Marathon
-          - Squash
-          - Hiking 
-          - Photograph
+  - block: markdown
+    id : hobbies
+    content:
+      title: Hobbies 
+      text: |-
+        I am passionate about long-distance running 🏃‍♀️ and have participated in more than ten marathon events, once ranking among the **top 5 female student runners** at City University of Hong Kong. Besides running, I also enjoy badminton 🏸, hiking 🏔️, and photography 📷, which allows me to capture and share unique perspectives from both daily life and nature.
 
         {{< gallery album="zhou" >}}
     design:

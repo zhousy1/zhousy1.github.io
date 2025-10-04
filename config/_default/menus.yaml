@@ -7,9 +7,14 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+
+#  - name: Featured Publications
+#    url: '#featured'
+#    weight: 30 
+
   - name: Publications
     url: '#featured'
-    weight: 20
+    weight: 20 # order your links by weight
 #  - name: Experience
 #    url: '#experience'
 #    weight: 30
@@ -21,13 +26,14 @@ main:
     url: '#honors'
     weight: 30
 
-  - name: Services and Hobbies   
+  - name: Professional Services   
     url: '#services'
     weight: 40
 
-#  - name: Projects
-#    url: '#projects'
-#    weight: 40
+  - name: Hobbies
+    url: '#hobbies'
+    weight: 50
+    
 #  - name: Gallery
 #    url: '#gallery'
 #    weight: 50

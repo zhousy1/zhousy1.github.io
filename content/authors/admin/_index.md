@@ -30,8 +30,8 @@ bio: Ph.D. candidate at City University of Hong Kong
 # Interests to show in About widget
 interests:
   - Multi-Agent System 
-  # - Trajectory Planning 
-  - Output Regulation 
+  - Trajectory Planning 
+  - Cooperative Control 
   - Adaptive Control  
 
 # Education to show in About widget
