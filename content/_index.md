@@ -116,13 +116,13 @@ sections:
         ## **Honors**
         ### **Academic Honors**
         - Outstanding Graduate Student of Beijing, Beijing Municipal Education Commission, 2022
-        - Outstanding Graduate Student, Beijing Association of Automation, 2021
+        - Outstanding Graduate Student, Beijing Association of Automation, 2022
         - Top Ten Outstanding Graduate Students, Beihang University, 2021
         - Merit Student, Beihang University, 2021
         - Merit Student, Beihang University, 2020
         - Merit Student, School of Automation Science and Electrical Engineering, Beihang University, 2021
         - Merit Student, School of Automation Science and Electrical Engineering, Beihang University, 2020
-        - Outstanding Graduate Student, Northwestern Polytechnical University, in 2019
+        - Outstanding Undergraduate Student, Northwestern Polytechnical University, in 2019
         - Merit Student, Northwestern Polytechnical University, 2018
         - Merit Student, Northwestern Polytechnical University, 2017
         - Merit Student, Northwestern Polytechnical University, 2016
@@ -199,7 +199,7 @@ sections:
     content:
       title: Hobbies 
       text: |-
-        I am passionate about long-distance running 🏃‍♀️ and have participated in more than ten marathon events, once ranking among the **top 5 female student runners** at City University of Hong Kong. Besides running, I also enjoy badminton 🏸, hiking 🏔️, and photography 📷, which allows me to capture and share unique perspectives from both daily life and nature.
+        I am passionate about long-distance running 🏃‍♀️ and have participated in more than ten marathon events, receiving the **Top 5 Female Student Runner** honor at City University of Hong Kong. Besides running, I also enjoy badminton 🏸, hiking 🏔️, and photography 📷, which allows me to capture and share unique perspectives from both daily life and nature.
 
         {{< gallery album="zhou" >}}
     design:

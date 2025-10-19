@@ -1,5 +1,5 @@
 ---
-title: "Fixed-Time formation tracking for heterogeneous linear multiagent systems with a nonautonomous leader"
+title: "Fixed-time formation tracking for heterogeneous linear multiagent systems with a nonautonomous leader"
 authors:
 - admin
 - Dong Sun

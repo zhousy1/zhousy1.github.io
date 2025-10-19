@@ -30,20 +30,20 @@ bio: Ph.D. candidate at City University of Hong Kong
 # Interests to show in About widget
 interests:
   - Multi-Agent System 
-  - Trajectory Planning 
   - Cooperative Control 
+  - Distributed Optimization 
   - Adaptive Control  
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD Candidate
+    - course: Ph.D. Candidate
       institution: City University of Hong Kong, Hong Kong, China
       year: 2022-now
-    - course: MEng in Control Science and Engineering
+    - course: M.Eng. in Control Science and Engineering
       institution: Beihang University, Beijing, China
       year: 2019-2022
-    - course: BEng in Automation
+    - course: B.Eng in Automation
       institution: Northwestern Polytechnical University, Xi’an, China
       year: 2015-2019
 
@@ -131,7 +131,7 @@ social:
 highlight_name: true
 ---
 
-Hi! My name is Shiyu Zhou (周诗钰). I am currently a Ph.D. candidate in the [Department of Mechanical Engineering](https://www.cityu.edu.hk/mne/) at [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by [Prof. Gang Feng (IEEE Fellow)](https://www.cityu.edu.hk/bme/megfeng/), co-supervised by [Prof. Dong Sun (IEEE Fellow)](https://www.cityu.edu.hk/bme/medsun/).
+Hi! My name is Shiyu Zhou (周诗钰). I am currently a Ph.D. candidate in the [Department of Mechanical Engineering](https://www.cityu.edu.hk/mne/) at [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by [Prof. Gang Feng (IEEE Fellow)](https://www.cityu.edu.hk/bme/megfeng/), co-supervised by [Prof. Dong Sun (IEEE Fellow)](https://www.cityu.edu.hk/bme/medsun/). 
 {style="text-align: justify;"}
 
 <!-- My research focuses on cooperative control of multi agent system, particularly in trajectory and motion planning for aerial robots. My current goal is to achieve fully autonomous, agile flight in real-world environments, thereby enabling aerial robots to serve humans efficiently.
