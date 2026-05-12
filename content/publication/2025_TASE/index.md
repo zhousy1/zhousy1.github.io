@@ -3,6 +3,7 @@ title: "Fixed-time formation-containment tracking of heterogeneous multi-agent s
 authors:
 - admin
 - Dong Sun
+- Xiwang Dong
 - Gang Feng
 date: "2025-03-11T00:00:00Z"
 doi: ""
@@ -16,7 +17,7 @@ publishDate: "2025-03-11T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Submitted to IEEE Transactions on Cybernetics**"
+publication: "**Conditionally Accepted by IEEE Transactions on Automation Science and Engineering**"
 publication_short: ""
 
 abstract: 
@@ -26,7 +27,7 @@ summary:
 
 tags:
 - Fixed-time control
-featured: true 
+featured: false 
 
 links:
 # - name: Custom Link

@@ -128,6 +128,7 @@ sections:
         - Merit Student, Northwestern Polytechnical University, 2016
 
         ### **Extracurricular Honors**
+        - Top Five Runner (Female Students, Half Marathon), City University of Hong Kong, 2026
         - Top Five Runner (Female Students, Half Marathon), City University of Hong Kong, 2025
         - Outstanding Volunteer, The 4th Chinese Conference on Swarm Intelligence and Cooperative Control, Chinese Institute of Command and Control, 2020
         - Outstanding Volunteer, The 3rd Chinese Conference on Swarm Intelligence and Cooperative Control, Chinese Institute of Command and Control, 2019

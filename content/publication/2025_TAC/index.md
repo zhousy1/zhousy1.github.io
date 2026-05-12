@@ -4,11 +4,11 @@ authors:
 - admin
 - Dong Sun
 - Gang Feng
-date: "2025-03-12T00:00:00Z"
+date: "2025-03-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-03-12T00:00:00Z"
+publishDate: "2025-03-10T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -16,7 +16,7 @@ publishDate: "2025-03-12T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Submitted to IEEE Transactions on Automatic Control**"
+publication: "**Submitted to IEEE Transactions on Cybernetics**"
 publication_short: ""
 
 abstract: 
@@ -26,7 +26,7 @@ summary:
 
 tags:
 - Fixed-time control
-featured: true 
+featured: false 
 
 links:
 # - name: Custom Link

@@ -31,8 +31,8 @@ bio: Ph.D. candidate at City University of Hong Kong
 interests:
   - Multi-Agent System 
   - Cooperative Control 
-  - Distributed Optimization 
-  - Adaptive Control  
+  - Game Theory
+  - Distributed Optimization  
 
 # Education to show in About widget
 education:
@@ -131,10 +131,10 @@ social:
 highlight_name: true
 ---
 
-Hi! My name is Shiyu Zhou (周诗钰). I am currently a Ph.D. candidate in the [Department of Mechanical Engineering](https://www.cityu.edu.hk/mne/) at [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by [Prof. Gang Feng (IEEE Fellow)](https://www.cityu.edu.hk/bme/megfeng/), co-supervised by [Prof. Dong Sun (IEEE Fellow)](https://www.cityu.edu.hk/bme/medsun/). 
+Hi! My name is Shiyu Zhou (周诗钰). I am currently a Ph.D. candidate in the [Department of Mechanical Engineering](https://www.cityu.edu.hk/mne/) at [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by [Prof. Gang Feng (IEEE Fellow)](https://www.cityu.edu.hk/bme/megfeng/), co-supervised by [Prof. Dong Sun (IEEE Fellow)](https://www.cityu.edu.hk/bme/medsun/). I am now a visiting Ph.D. student at Nanyang Technological University, working with [Prof. Lihua Xie (IEEE Fellow)](https://dr.ntu.edu.sg/entities/person/Xie-Lihua).
 {style="text-align: justify;"}
 
 <!-- My research focuses on cooperative control of multi agent system, particularly in trajectory and motion planning for aerial robots. My current goal is to achieve fully autonomous, agile flight in real-world environments, thereby enabling aerial robots to serve humans efficiently.
 {style="text-align: justify;"} -->
 
-> ***“Get the physics right. After that, it is all mathematics.”***  **-Rudolf E. Kalman**
+<blockquote style="white-space: nowrap;"><strong><em>“Get the physics right. After that, it is all mathematics.”</em></strong> <strong>-Rudolf E. Kalman</strong></blockquote>
