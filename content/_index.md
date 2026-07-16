@@ -73,6 +73,8 @@ sections:
     id: featured 
     content:
       title: All Publications
+      # Sort independently from the publication year shown in each citation.
+      sort_by: homepage_sort_date
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).

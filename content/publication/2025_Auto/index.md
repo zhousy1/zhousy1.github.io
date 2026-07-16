@@ -4,11 +4,12 @@ authors:
 - admin
 - Dong Sun
 - Gang Feng
-date: "2025-08-26T00:00:00Z"
+date: "2026-03-26T00:00:00Z"
+homepage_sort_date: "2026-03-26T00:00:00Z"
 doi: "https://doi.org/10.1016/j.automatica.2025.112632"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-8-26T00:00:00Z"
+publishDate: "2026-8-26T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

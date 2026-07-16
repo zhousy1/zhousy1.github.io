@@ -16,6 +16,7 @@ author_notes:
   # - 'Equal contribution'
 
 date: '2021-05-10'
+homepage_sort_date: '2021-05-10'
 doi: '10.1177/00202940211021113'
 
 # Schedule page publish date (NOT publication's date).

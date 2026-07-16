@@ -16,6 +16,7 @@ author_notes:
   # - 'Equal contribution'
 
 date: '2021-03-10'
+homepage_sort_date: '2021-03-10'
 doi: '10.1109/ICIT46573.2021.9453550'
 
 # Schedule page publish date (NOT publication's date).

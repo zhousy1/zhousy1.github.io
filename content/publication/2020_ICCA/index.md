@@ -16,6 +16,7 @@ author_notes:
   # - 'Equal contribution'
 
 date: '2020-10-09'
+homepage_sort_date: '2020-10-09'
 doi: '10.1109/ICCA51439.2020.9264576'
 
 # Schedule page publish date (NOT publication's date).

@@ -1,39 +1,39 @@
 ---
-title: "Neural network-accelerated trajectory optimization for launch vehicle landing"
+title: "Fixed-time formation-containment tracking of heterogeneous multi-agent systems"
 authors:
-- Zhipeng Shen
 - admin
-- Jianglong Yu
-- Hailong Huang
-
-date: "2023-06-16T00:00:00Z"
-homepage_sort_date: "2023-06-16T00:00:00Z"
-doi: "https://ieeexplore.ieee.org/abstract/document/10245228"
+- Dong Sun
+- Xiwang Dong
+- Gang Feng
+date: "2026-07-16T00:00:00Z"
+homepage_sort_date: "2026-01-11T00:00:00Z"
+doi: "https://doi.org/10.1109/TASE.2026.3713131"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-09-20"
+publishDate: "2025-03-11T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["paper-conference"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**The 9th International Conference on Control Science and Systems Engineering (ICCSSE)**"
+publication: "**IEEE Transactions on Automation Science and Engineering**"
 publication_short: ""
 
-abstract: This paper presents a novel trajectory optimization method for the 6-degrees-of-freedom powered landing problem in aerospace guidance and control. The method combines machine learning and convex optimization to achieve real-time performance. Specifically, we formulate the powered landing problem as an optimal control problem and transform it into a convex optimization problem. To enhance the state-of-the-art sequential convex programming algorithm, we use a deep neural network as an initial trajectory generator to provide a satisfactory initial guess for the sequential convex programming algorithm. Simulation results show that the proposed method achieves precise guidance of the vehicle to the landing site. Monte Carlo tests demonstrate that it can save an average of 40.8% of the computation time compared to the sequential convex programming method. Therefore, the proposed scheme is suitable for real-time applications in the aerospace industry.
+abstract: In this article, the fixed-time formation-containment tracking problem is addressed for heterogeneous multi-agent systems under a directed interaction topology. Agents are divided into a reference leader, providing a trajectory for the entire heterogeneous multi-agent systems; formation-leaders, achieving the desired formation by following this trajectory; and followers. Novel distributed fixed-time observers are developed for the formation-leaders and followers with the directed interaction topology, respectively. Distributed fixed-time control protocols are then proposed for the formation-leaders and followers using the coordinate transformation methods, eliminating the restrictive but commonly adopted full-row rank assumption of agent input matrices. It is shown that under the proposed control protocols, the concerned fixed-time formation-containment tracking problem can be solved. Simulations verify the effectiveness of the obtained theoretical results.
 
 # Summary. An optional shortened abstract.
 summary: 
 
 tags:
-featured: false
+- Fixed-time control
+featured: false 
 
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: 'content/publication/2023_ICCSSE/2023_ICCSSE.pdf'
+url_pdf: 'content/publication/2026_TASE/2026_TASE.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -45,7 +45,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Output trajectories of the multiagent systems'
   focal_point: ""
   preview_only: false
 

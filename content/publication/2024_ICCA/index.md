@@ -8,6 +8,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2024-06-18"
+homepage_sort_date: "2024-06-18"
 doi: "10.1109/ICCA51439.2020.9264576"
 
 # Schedule page publish date (NOT publication's date).
@@ -73,4 +74,3 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
-

@@ -5,6 +5,7 @@ authors:
 - Dong Sun
 - Gang Feng
 date: "2025-06-10T00:00:00Z"
+homepage_sort_date: "2025-06-10T00:00:00Z"
 doi: "10.1109/TCNS.2025.3528095"
 
 # Schedule page publish date (NOT publication's date).

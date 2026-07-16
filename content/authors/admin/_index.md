@@ -39,13 +39,13 @@ education:
   courses:
     - course: Ph.D. Candidate
       institution: City University of Hong Kong, Hong Kong, China
-      year: 2022-now
+      year: Sept. 2022 - Oct. 2026 (expected degree conferral)
     - course: M.Eng. in Control Science and Engineering
       institution: Beihang University, Beijing, China
-      year: 2019-2022
+      year: Sept. 2019 - July 2022
     - course: B.Eng in Automation
       institution: Northwestern Polytechnical University, Xi’an, China
-      year: 2015-2019
+      year: Sept. 2015 - July 2019
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

@@ -1,15 +1,18 @@
 ---
-title: "Fixed-time formation-containment tracking of heterogeneous multi-agent systems"
+title: "The fixed-time distributed time-varying Nash equilibrium seeking algorithm for heterogeneous multi-agent systems"
 authors:
 - admin
+- Ouyang Binghao
+- Lihua Xie
 - Dong Sun
-- Xiwang Dong
 - Gang Feng
-date: "2025-03-11T00:00:00Z"
+date: "2026-01-01T00:00:00Z"
+# Keep this fifth on the homepage without changing its displayed 2026 year.
+homepage_sort_date: "2025-03-09T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-03-11T00:00:00Z"
+publishDate: "2025-03-10T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,7 +20,7 @@ publishDate: "2025-03-11T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Conditionally Accepted by IEEE Transactions on Automation Science and Engineering**"
+publication: "**IEEE Transactions on Automatic Control, In Preparation**"
 publication_short: ""
 
 abstract: 

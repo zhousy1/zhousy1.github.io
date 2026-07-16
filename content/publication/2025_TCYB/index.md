@@ -1,10 +1,13 @@
 ---
-title: "Collision-free fixed-time formation tracking for Euler-Lagrange systems"
+title: "Collision-free practical fixed-time formation tracking for uncertain Euler-Lagrange systems"
 authors:
 - admin
+- Lihua Xie
+- Xiwang Dong
 - Dong Sun
 - Gang Feng
 date: "2025-03-10T00:00:00Z"
+homepage_sort_date: "2025-03-11T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +19,7 @@ publishDate: "2025-03-10T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Submitted to IEEE Transactions on Cybernetics**"
+publication: "**IEEE Transactions on Cybernetics, Under Review**"
 publication_short: ""
 
 abstract: 

@@ -16,6 +16,7 @@ author_notes:
   # - 'Equal contribution'
 
 date: '2019-11-25'
+homepage_sort_date: '2019-11-25'
 doi: 'https://doi.org/10.1002/adc2.26'
 
 # Schedule page publish date (NOT publication's date).

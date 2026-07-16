@@ -11,6 +11,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2020-10-09"
+homepage_sort_date: "2020-10-09"
 doi: "10.1109/ICARCV50220.2020.9305414"
 
 # Schedule page publish date (NOT publication's date).
